@@ -26,10 +26,10 @@ Designed for developers and power users who want a "Stealth Mode" or a hands-fre
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/GesturePro.git](https://github.com/YOUR_USERNAME/GesturePro.git)
-cd GesturePro
+git clone [https://github.com/Procodx/gesture_pro.git](https://github.com/Procodx/gesture_pro.git)
+cd gesture_pro
 ```
-
+###Remember to open your python in a Venv
 ## 2. Install Dependencies
 
 ```bash
